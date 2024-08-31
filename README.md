@@ -6,6 +6,6 @@ Large-scale construction projects, particularly in the infrastructure sector, ar
 The Fehmarn Sound Link case study demonstrates how this setup can be used to evaluate alternatives based on the statistical spread of material costs. The results show that a lower spread in cost variations is desirable, indicating less risk of significant cost escalations due to design changes. The approach also highlights the potential of comparing alternatives based on requirement-related parameters, facilitating more informed decision-making.	
 While the method intends to improve early-stage decision-making for large construction projects, it also has limitations, particularly in terms of the complexity of the case study and generalizability. Future research should consider expanding the approach to include additional performance criteria and probabilistic assessments of design changes. Nonetheless, the proposed method offers a promising tool for enhancing the management of construction projects, leading to more robust and economically efficient project outcomes.
 
-## Content
+## Contents
 /model: Grasshopper script with the implementation of the case study and a Rhino file to preview the models <br> 
 /analysis: Python script (Jupyter  Notebook) with the complete statistical analysis of the raw data, in addtition to the exported Excel files
